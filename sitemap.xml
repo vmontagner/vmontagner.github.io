@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://vmontagner.github.io/</loc>
-    <lastmod>2020-05-09T10:58:08-04:00</lastmod>
+    <lastmod>2020-10-24T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vmontagner.github.io/post/</loc>
+    <lastmod>2020-10-24T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,19 +31,6 @@
   </url>
   
   <url>
-    <loc>https://vmontagner.github.io/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vmontagner.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://vmontagner.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -44,6 +38,12 @@
   
   <url>
     <loc>https://vmontagner.github.io/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vmontagner.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

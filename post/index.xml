@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Vinicius Montagner</title>
+    <title>Projetos on Vinicius Montagner</title>
     <link>https://vmontagner.github.io/post/</link>
-    <description>Recent content in Projects on Vinicius Montagner</description>
+    <description>Recent content in Projetos on Vinicius Montagner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vmontagner.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 24 Oct 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://vmontagner.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1: Data Science Salary Estimator</title>
       <link>https://vmontagner.github.io/post/project-1/</link>
